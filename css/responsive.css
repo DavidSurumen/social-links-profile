@@ -1,0 +1,37 @@
+@media (min-width: 800px) {
+    /*main {
+        background-position: center;
+        justify-content: center;
+        padding: 0 15px;
+    }*/
+    .profile-card {
+        padding: 16px;
+    }
+    .profile-card img {
+        width: 70px;
+        height: 70px;
+        margin-bottom: 18px;
+    }
+    .profile-card .details .name {
+        font-family: "Inter Regular";
+        font-weight: 100;
+        font-size: 23px;
+    }
+    .profile-card .details .location {
+        font-family: "Inter Regular";
+        font-weight: 200;
+        font-size: 13.5px;
+    }
+
+    .profile-card p {
+        font-size: 14px;
+    }
+
+    .profile-card ul li {
+        padding: 10px;
+        margin: 14px;
+        font-family: "Inter Regular";
+        font-weight: 400;
+        font-size: 14px;
+    }
+}
